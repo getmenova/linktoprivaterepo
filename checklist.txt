@@ -1,0 +1,12 @@
+checklist 
+
+
+scrapes desired data from site
+
+parses data into standard format
+
+stores data in choice of format
+
+inserts data into database for recall
+
+saves file in the same directory 
